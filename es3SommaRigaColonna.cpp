@@ -13,7 +13,7 @@ int main()
     {
         for (int j = 0; j < colonne; j++)
         {
-            matrice[i][j] = rand() % 5;
+            matrice[i][j] = rand() % 4;
         }
     }
         //   somma
